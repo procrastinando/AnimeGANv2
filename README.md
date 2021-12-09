@@ -2,6 +2,8 @@
 
 Creator: https://tachibanayoshino.github.io/AnimeGANv2
 
+#
+
 ### Train 
 #### 1. Download vgg19    
   > [vgg19.npy](https://github.com/TachibanaYoshino/AnimeGAN/releases/tag/vgg16%2F19.npy)  
