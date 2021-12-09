@@ -1,6 +1,6 @@
 # AnimeGanV2
 
-Creator: (https://tachibanayoshino.github.io/AnimeGANv2)
+Creator: https://tachibanayoshino.github.io/AnimeGANv2
 
 ### Train 
 #### 1. Download vgg19    
